@@ -1,0 +1,22 @@
+
+
+.image img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height: auto;
+}
+label{
+    color: #000000 !important;
+}
+.form-control{
+    background-color: #FFFFFF !important;
+}
+.input-group-text{
+    background-color: #FFFFFF !important;
+}
+
+input, select, textarea{
+    color: #000000 !important;
+}
